@@ -1,9 +1,8 @@
-Regler
-Codacy Badge
+# Regler
+## Device managament system Web Application
 
-Device managament system App
-Mobile side application for managing the device like AC.
+Web side application for managing the device like AC.
 
-This application is created using Flutter.
+This application is created using AngularJS.
 
-Some Screenshot of regler
+## Some Screenshot of regler 
